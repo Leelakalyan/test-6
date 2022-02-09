@@ -1,0 +1,14 @@
+a=int(input('enter a value:'))
+b=int(input('enter b value:'))
+if a>b:
+ print("a is greater then b")
+else:
+ print("b is greater then a")
+ 
+Output:
+
+enter a value:
+55
+enter b value:
+88
+b is greater then a
